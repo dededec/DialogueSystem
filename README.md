@@ -1,5 +1,5 @@
 # DialogueSystem
-Dialogue system made for an unreleased game jam project. Developed in 3 days.
+Dialogue system made for Present! (https://alcaval.itch.io/present). Developed in 3 days.
 
 I'm not uploading it as a tool because it's really rudimentary and made for an specific project, but it was developed in a really short time and it allows you to create dialogue straight from the Unity editor, so I was happy with it.
 
